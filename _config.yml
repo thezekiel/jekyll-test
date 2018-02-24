@@ -1,3 +1,4 @@
 name: Zeke Shore, Test
 markdown: kramdown
 theme: jekyll-theme-minimal
+permalink: jekyll-test/blog/:year/:month/:day/:title
